@@ -1,0 +1,11 @@
+.countdown{
+    max-width: 400px;
+    margin: 200px auto;
+    background-color: #F7F7F8;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px 10px 50px;
+}
+body{
+    background-color: #3795BD;
+}
